@@ -1,30 +1,28 @@
 ng-video-lecture on git master [x?] via py v3.13.2 (myenv) took 8s
 > python ./gpt.py
-step 0: train loss 4.1990, val loss 4.2031
-step 200: train loss 2.5419, val loss 2.5518
-step 400: train loss 2.4891, val loss 2.5016
-step 600: train loss 2.4749, val loss 2.4981
-step 800: train loss 2.4533, val loss 2.4809
-step 1000: train loss 2.4521, val loss 2.4738
-step 1200: train loss 2.4352, val loss 2.4435
-step 1400: train loss 2.4281, val loss 2.4522
-step 1600: train loss 2.4313, val loss 2.4503
-step 1800: train loss 2.4279, val loss 2.4581
+step 0: train loss 4.2254, val loss 4.2242
+step 200: train loss 2.4635, val loss 2.4741
+step 400: train loss 2.3801, val loss 2.3919
+step 600: train loss 2.3578, val loss 2.3971
+step 800: train loss 2.2967, val loss 2.3410
+step 1000: train loss 2.2894, val loss 2.3375
+step 1200: train loss 2.2636, val loss 2.3101
+step 1400: train loss 2.2606, val loss 2.3164
+step 1600: train loss 2.2582, val loss 2.3093
+step 1800: train loss 2.2476, val loss 2.3075
 
-O:
-WARDUS:o
-Byouthm,or do m and the Inor ghistthomave tickel, ng, tito chof thy, che; cth teenge, com fis theatsomof efegant sthedd athe.
+OWARD:
+Od, himstesm, rid hi and the shorr wilf homave tictt fen yy, but:
+Withmy, ciut pth thenth sise fis thervionof efegand sthend ath wos leth whes cif a, a frap: go'sce
+Wito pie
 
-LAULCAUCBKE:
-RRYora fra nogh'sche: to
-Lie
-
-I theed,
-spilteral tst the
-Anto heillo me thayu pis wieg-mist:
-Salthi inns p ty s, htoalik thallle
-My wissters ter fo kze ele.
-
-OMENToom lief tch!
-I wise, were thint os tohedy,
-I hatin the slchofut st set whoureerp we atwizin ando rkecast itsurgi gepr te ruelkee fwe tthecheprt lecth our shespm tot allovenear bswist
+I thy dads,
+If tal the they thome?
+OrTh mith ust thy cag-mist:
+Sa this tns phey's, hecall dess.
+Nond on sond spter fork be ands
+Of grooo lie; them a do, be with thint,
+Lot, day,
+I goove the stcetith stis tewntherere we atwilfboond fricknst its fet gep.
+An ruce, eff Heat there;
+Fleand war shis my wthall therar bswirnd

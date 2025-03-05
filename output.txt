@@ -1,27 +1,32 @@
-ng-video-lecture on git master [!<] via py v3.13.2 (myenv) took 4s
-x python ./gpt.py
-step 0: train loss 4.3080, val loss 4.3074
-step 200: train loss 2.4048, val loss 2.4232
-step 400: train loss 2.2904, val loss 2.2808
-step 600: train loss 2.2363, val loss 2.2461
-step 800: train loss 2.1795, val loss 2.2071
-step 1000: train loss 2.1354, val loss 2.1839
-step 1200: train loss 2.1460, val loss 2.2047
-step 1400: train loss 2.1104, val loss 2.1791
-step 1600: train loss 2.0734, val loss 2.1529
-step 1800: train loss 2.0693, val loss 2.1613
+root@autodl-container-3b0d44a93a-28318ec9:~/ng-video-lecture# python ./gpt.py
+10.788929 M parameters
+step 0: train loss 4.2221, val loss 4.2306
+step 500: train loss 1.7505, val loss 1.9071
+step 1000: train loss 1.3929, val loss 1.6032
+step 1500: train loss 1.2667, val loss 1.5276
+step 2000: train loss 1.1893, val loss 1.5051
+step 2500: train loss 1.1210, val loss 1.4929
+step 3000: train loss 1.0721, val loss 1.4842
+step 3500: train loss 1.0199, val loss 1.5095
+step 4000: train loss 0.9600, val loss 1.5225
+step 4500: train loss 0.9101, val loss 1.5403
+step 4999: train loss 0.8601, val loss 1.5710
 
-CAMILIXES:
-By in in Raliencts in by cling noo the hearpist one-vish eve gavitle as arur fall be sul sher cice.
-If manigedere suly virp hisirss butwy this that 'en, it thus
-Bobees: I not o'll the is will oss agd-intugony linto is this suffurst.
+VOLUMNIA:
+And in a prarise and unnoble namp,
+I the name of Rame o' Bohemia's hing;
+Now more delight to an ill-takerr'd fire
+And tarrich with the kingd's vaultitudous cause,
+That would please all his islok in rest.
 
-BUthat in dipecrore
-it fraule of
-he affeshenf hall say, now a uphws apputh
-goe.
-Now I my blong frigl thould canice a reell's witherl, of at bale
-Awares sucky Larar rnence,
-Hinghenteaking,
-As you you my slight is lotchid: ofexeor:
-Sarly mare, the thall ige
+PERDITA:
+This is it prevent from us now
+That will serve, Bagone.
+
+POLIXENES:
+This Viery butterfold, 'tis a noble king's;
+And meny are tears, till me be weak to me,
+I am a slaved as a fever! O this war as good,
+As it is, so entre's become on the game
+Pass'd with a passage, I can send
+A

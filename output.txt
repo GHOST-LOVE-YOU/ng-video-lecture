@@ -1,24 +1,30 @@
-ng-video-lecture on git master [x!?] via py v3.13.2 (myenv) took 15s
-> python ./bigram.py
-step 0: train loss 4.7305, val loss 4.7241
-step 200: train loss 3.1193, val loss 3.1313
-step 400: train loss 2.6480, val loss 2.6667
-step 600: train loss 2.5434, val loss 2.5689
-step 800: train loss 2.5155, val loss 2.5248
-step 1000: train loss 2.5008, val loss 2.5115
-step 1200: train loss 2.4787, val loss 2.4992
-step 1400: train loss 2.4747, val loss 2.4983
-step 1600: train loss 2.4739, val loss 2.4940
-step 1800: train loss 2.4734, val loss 2.4947
+ng-video-lecture on git master [x?] via py v3.13.2 (myenv) took 8s
+> python ./gpt.py
+step 0: train loss 4.1990, val loss 4.2031
+step 200: train loss 2.5419, val loss 2.5518
+step 400: train loss 2.4891, val loss 2.5016
+step 600: train loss 2.4749, val loss 2.4981
+step 800: train loss 2.4533, val loss 2.4809
+step 1000: train loss 2.4521, val loss 2.4738
+step 1200: train loss 2.4352, val loss 2.4435
+step 1400: train loss 2.4281, val loss 2.4522
+step 1600: train loss 2.4313, val loss 2.4503
+step 1800: train loss 2.4279, val loss 2.4581
 
-DWenche douratw, ye FL:
-Yo t ouromsn sabeaclct w stwis ddinfooutf song h e d s, libu fele Donthozeonoth.
-Toody t ain.
-Fise l glis aichivear mifand IGes cer herish KI ster that thoolo y hank wndeoushermon ied he y.
-tht l acke siesplin rt s RWARO:
+O:
+WARDUS:o
+Byouthm,or do m and the Inor ghistthomave tickel, ng, tito chof thy, che; cth teenge, com fis theatsomof efegant sthedd athe.
 
+LAULCAUCBKE:
+RRYora fra nogh'sche: to
+Lie
 
-t is
-QUSide hedeist wote s ntis chend
-I ay blouratr PUK:
-Hau CAs'r to titopouthoul mar, th o avalfisingl ithaces, ms mulofor h swesedy w, e bler you, to, brsqu RII h Genthil teacond sirngucerour se, urin Mar Toer ng harde sthy thy; llut ndr dZARWhil fa
+I theed,
+spilteral tst the
+Anto heillo me thayu pis wieg-mist:
+Salthi inns p ty s, htoalik thallle
+My wissters ter fo kze ele.
+
+OMENToom lief tch!
+I wise, were thint os tohedy,
+I hatin the slchofut st set whoureerp we atwizin ando rkecast itsurgi gepr te ruelkee fwe tthecheprt lecth our shespm tot allovenear bswist

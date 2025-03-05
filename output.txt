@@ -1,26 +1,27 @@
-ng-video-lecture on git master [!] via py v3.13.2 (myenv) took 12s
-> python ./gpt.py
-step 0: train loss 4.6244, val loss 4.6225
-step 200: train loss 2.4109, val loss 2.4326
-step 400: train loss 2.3251, val loss 2.3120
-step 600: train loss 2.2931, val loss 2.3084
-step 800: train loss 2.2482, val loss 2.2739
-step 1000: train loss 2.2058, val loss 2.2586
-step 1200: train loss 2.2310, val loss 2.2833
-step 1400: train loss 2.1872, val loss 2.2445
-step 1600: train loss 2.1600, val loss 2.2338
-step 1800: train loss 2.1604, val loss 2.2377
+ng-video-lecture on git master [!<] via py v3.13.2 (myenv) took 4s
+x python ./gpt.py
+step 0: train loss 4.3080, val loss 4.3074
+step 200: train loss 2.4048, val loss 2.4232
+step 400: train loss 2.2904, val loss 2.2808
+step 600: train loss 2.2363, val loss 2.2461
+step 800: train loss 2.1795, val loss 2.2071
+step 1000: train loss 2.1354, val loss 2.1839
+step 1200: train loss 2.1460, val loss 2.2047
+step 1400: train loss 2.1104, val loss 2.1791
+step 1600: train loss 2.0734, val loss 2.1529
+step 1800: train loss 2.0693, val loss 2.1613
 
-CAMILLINARPO:
-Papenter an ut the by cling no.
-Frrise,
-plet of thish evy latttly espors. I willst th sher cise.
-I wallifeue my unsiver, ey ires butnge. is that 'ay, it thublave
-I gan now oface wath this toss at bint, of olsit life mings flurst'anly all inouiputhore
-if es b mory
-he preeshe, my, his by now a warwansury maghe of she my blough re let tellg'ddive a prelclame; thuld of their.
+CAMILIXES:
+By in in Raliencts in by cling noo the hearpist one-vish eve gavitle as arur fall be sul sher cice.
+If manigedere suly virp hisirss butwy this that 'en, it thus
+Bobees: I not o'll the is will oss agd-intugony linto is this suffurst.
 
-Prares's you Lawards spearitinghenivagith,
-As you you my sliploniaWlm?
-Firice,
-A of com you a k, the thall ige
+BUthat in dipecrore
+it fraule of
+he affeshenf hall say, now a uphws apputh
+goe.
+Now I my blong frigl thould canice a reell's witherl, of at bale
+Awares sucky Larar rnence,
+Hinghenteaking,
+As you you my slight is lotchid: ofexeor:
+Sarly mare, the thall ige
